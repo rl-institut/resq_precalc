@@ -9,3 +9,7 @@ This repository contains a couple of precalculation scripts in the ResQEnergy pr
 4. Calculation of a mean electricity price from a time series: `get_mean_el_price.py`
 5. Generation of a plot showing the shares of supply in future district heating systems according to Langfristszenarien: `get_plot_share_production_dh.py`
 6. A helping script to modify oemof-B3 weatherdata with `Testreferenzjahre`-ts: `modify_oemof-B3_weatherdata.py`
+
+raw_data
+========
+All input data is here: https://rlinstitutde.sharepoint.com/:f:/s/427_ResQEnergy-427_internal_Team/IgBmfAcZ58xLTIGwckVM2mVvAa0gHGJZmahbooWqKqTfpRI?e=d32ruc
